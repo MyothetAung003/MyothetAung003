@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MyothetAung003
-- 👀 I’m interested in ...
+- 👀 I’m interested in computer science
 - 🌱 I’m currently learning ...Java 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me ...
 
 <!---
